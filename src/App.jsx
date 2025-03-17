@@ -17,7 +17,7 @@ function App() {
         <Navbar /> */}
       </nav>
       <header
-        className="flex items-center justify-center min-h-screen w-full bg-cover bg-center bg-slate-500"
+        className="flex items-center justify-center min-h-screen w-full bg-cover bg-center bg-[url('src/assets/header_img.png')] bg-no-repeat"
         id="header"
       >
         <Header />
