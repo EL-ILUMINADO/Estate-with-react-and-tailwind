@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <ToastContainer />
-      <nav className="flex flex-col items-center justify-center py-4 fixed top-0 right-0 w-full z-10 py-4">
+      <nav className="flex flex-col items-center justify-center py-4 fixed top-0 right-0 w-full z-10 py-4 bg-slate-500">
         <Navbar />
         {/* <Navbar />
         <Navbar /> */}
